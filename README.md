@@ -1,10 +1,12 @@
+Satya Seat/Readme.md
+
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=230&section=header&text=Seat%20Satya&fontSize=52&fontColor=ffffff&desc=Mobile%20App%20Developer&descSize=18&descAlignY=65)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter%20Developer;FastAPI%20%2B%20MongoDB;Docker%20Containerization)](https://github.com/seatsatya-12345/)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=seatsatya-12345&color=blue&style=flat-square&label=Portfolio+Views)](https://github.com/seatsatya-12345)
-[![Email](https://img.shields.io/badge/Email-seatsatya169@gmail.com-red)](mailto:seatsatya169@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-seatsatya--12345-181717)](https://github.com/seatsatya-12345/)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-0284c7?style=flat-square&logo=vercel&logoColor=white)](https://my-repo-folio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-seatsatya169@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:seatsatya169@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-seatsatya--12345-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seatsatya-12345/)
 
 ---
 
