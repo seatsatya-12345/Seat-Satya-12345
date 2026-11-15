@@ -1,6 +1,6 @@
 Satya Seat/Readme.md
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=230&section=header&text=Seat%20Satya&fontSize=52&fontColor=ffffff&desc=Mobile%20App%20Developer&descSize=18&descAlignY=65)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=320&section=header&text=Seat%20Satya&fontSize=52&fontColor=ffffff&desc=Mobile%20App%20Developer&descSize=18&descAlignY=65)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter%20Developer;FastAPI%20%2B%20MongoDB;Docker%20Containerization)](https://github.com/seatsatya-12345/)
 
