@@ -1,5 +1,3 @@
-# Seat-Satya-12345/README.md
-
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=230&section=header&text=Seat%20Satya&fontSize=52&fontColor=ffffff&desc=Mobile%20App%20Developer&descSize=18&descAlignY=65)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flutter%20Developer;FastAPI%20%2B%20MongoDB;Docker%20Containerization)](https://github.com/seatsatya-12345/)
@@ -12,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Profile:** Software Development student (fresh graduate at Norton University) specializing in Junior Mobile Development
-- 📱 Proficient in **Flutter**, **Dart**, and **UX/UI** for creating responsive cross-platform mobile apps
-- ⚙️ Experienced in backend & web technologies including **FastAPI**, **MongoDB**, **PHP/Laravel**, and **PostgreSQL**
-- 🧠 **Soft Skills:** Project Management, Problem Solving, Management Skills, Creativity, and Digital Marketing
-- 🗣 **Languages:** Khmer (Fluent), English (Well)
+- 🎓 **Profile:** Software Development graduate from Norton University specializing in Junior Mobile Development
+- 📱 Proficient in **Flutter**, **Dart**, and **UX/UI** for building responsive cross-platform mobile apps
+- ⚙️ Experienced in backend & web technologies including **FastAPI**, **MongoDB**, **Next.js**, **PHP/Laravel**, and **PostgreSQL**
+- 🧠 **Soft Skills:** Project Management, Problem Solving, Team Leadership, Creativity, and Digital Marketing
+- 🗣 **Languages:** Khmer (Fluent), English (Proficient)
 - 📍 **Location:** Russey Keo, Phnom Penh, Cambodia
 - 📞 **Contact:** 0969470437 | [seatsatya169@gmail.com](mailto:seatsatya169@gmail.com)
 
@@ -37,19 +35,19 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Mobile & Frontend:** Flutter · Dart · HTML5/CSS  
-**Backend & Database:** FastAPI · Python · MongoDB  
+**Mobile & Frontend:** Flutter · Dart · Next.js · HTML5/CSS  
+**Backend & Database:** FastAPI · Python · PHP/Laravel · MongoDB · PostgreSQL  
 **Tools & Architecture:** Docker · Git · GitHub · REST API  
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 📱 **Jobber City App** | A smart job-matching application designed to solve common challenges in job searching and recruitment. Developed as Team Leader during Level 1 & Level 2 Flutter training at ANT Technology Center. | `Flutter` `Dart` `FastAPI` `MongoDB` `Railway` | [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-00C0FF?style=for-the-badge&logoColor=white)](https://github.com/seatsatya-12345) |
+| 📱 **Jobber City App** | A smart job-matching mobile application designed to streamline job searching and recruitment. Developed as Team Leader during Level 1 & Level 2 Flutter training at ANT Technology Center. | `Flutter` `Dart` `FastAPI` `MongoDB` `Railway` | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-00C0FF?style=for-the-badge&logoColor=white)](https://my-repo-folio.vercel.app/) [![Source Code](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seatsatya-12345) |
 | 💒 **Srolanh Digital Event Management** | A comprehensive digital general affairs management website system developed for Graragra agency. Features Laravel Sanctum authentication, Brevo email services, Redis caching, and Cloudinary storage. | `Next.js` `PHP/Laravel` `PostgreSQL` `Vercel` | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-00C0FF?style=for-the-badge&logoColor=white)](https://srolanh.vercel.app) [![Source Code](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seatsatya-12345) |
-| 🏆 **Sport Tournament Management System** | Award-winning object-oriented system for sports enthusiasts to manage matches, players, teams, and fixtures. Received the #1 Certificate of Achievement at ANT Technology Center. | `C++` `OOP` | [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-00C0FF?style=for-the-badge&logoColor=white)](https://github.com/seatsatya-12345) |
+| 🏆 **Sport Tournament Management System** | Award-winning object-oriented system for managing matches, players, teams, and fixtures. Received the #1 Certificate of Achievement at ANT Technology Center. | `C++` `OOP` | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-00C0FF?style=for-the-badge&logoColor=white)](https://my-repo-folio.vercel.app/) [![Source Code](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seatsatya-12345) |
 
 ---
 
@@ -57,14 +55,14 @@
 
 | Timeline | Institution / Award | Details |
 | :--- | :--- | :--- |
-| **2025 – 2026** | **Norton University** | Fresh Graduate Student — Major in Software Development. |
+| **2025 – 2026** | **Norton University** | Graduate — Major in Software Development. |
 | **2025 – 2026** | **Scholarship of ANT Technology Center and MPTC** | Full Scholarship Student (13 Months).<br>• **#1 Certificate Award:** C++/OOP Sport Tournament Management System<br>• **Team Leader:** Flutter Level 1 & Level 2 (Jobber City App)<br>• **Certifications:** C++, Flutter, FastAPI, Git/GitHub, UX/UI, Python, HTML5/CSS |
-| **2022 – 2023** | **Cheasim Chomreoun Roth High School** | Graduated High School Diploma. |
-| **2019 – 2020** | **BELTEI International School** | Earned Certificate of Completion & Semi-Finalist in English Speaking Competition. |
+| **2022 – 2023** | **Cheasim Chomreoun Roth High School** | High School Diploma. |
+| **2019 – 2020** | **BELTEI International School** | Certificate of Completion & Semi-Finalist in English Speaking Competition. |
 
 ---
 
-## 🤝 Reference
+## 🤝 References
 
 | Reference Details |
 | :--- |
